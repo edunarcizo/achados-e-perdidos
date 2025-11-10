@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|c:\\users\\aluno\\source\\repos\\achados-e-perdidos\\achados e perdidos\\achados e perdidos\\frmvisualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|solutionrelative:achados e perdidos\\frmvisualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|c:\\users\\aluno\\source\\repos\\achados-e-perdidos\\achados e perdidos\\achados e perdidos\\frmvisualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|solutionrelative:achados e perdidos\\frmvisualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|c:\\users\\aluno\\source\\repos\\achados-e-perdidos\\achados e perdidos\\achados e perdidos\\frmadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|solutionrelative:achados e perdidos\\frmadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|c:\\users\\aluno\\source\\repos\\achados-e-perdidos\\achados e perdidos\\achados e perdidos\\frmadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|solutionrelative:achados e perdidos\\frmadicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|c:\\users\\aluno\\source\\repos\\achados-e-perdidos\\achados e perdidos\\achados e perdidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297AE2DF-CD37-4D3C-8705-AB00E269458D}|Achados e perdidos\\Achados e perdidos.csproj|solutionrelative:achados e perdidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmVisualizar.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmVisualizar.cs",
+              "RelativeDocumentMoniker": "Achados e perdidos\\FrmVisualizar.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmVisualizar.cs",
+              "RelativeToolTip": "Achados e perdidos\\FrmVisualizar.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwEcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:15:55.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAdicionar.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmAdicionar.cs",
+              "RelativeDocumentMoniker": "Achados e perdidos\\FrmAdicionar.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmAdicionar.cs",
+              "RelativeToolTip": "Achados e perdidos\\FrmAdicionar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:52:00.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAdicionar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmAdicionar.cs",
+              "RelativeDocumentMoniker": "Achados e perdidos\\FrmAdicionar.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmAdicionar.cs [Design]",
+              "RelativeToolTip": "Achados e perdidos\\FrmAdicionar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:11:38.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVisualizar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmVisualizar.cs",
+              "RelativeDocumentMoniker": "Achados e perdidos\\FrmVisualizar.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\FrmVisualizar.cs [Design]",
+              "RelativeToolTip": "Achados e perdidos\\FrmVisualizar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:11:17.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\Form1.cs",
+              "RelativeDocumentMoniker": "Achados e perdidos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\achados-e-perdidos\\Achados e perdidos\\Achados e perdidos\\Form1.cs [Design]",
+              "RelativeToolTip": "Achados e perdidos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:04:22.723Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
