@@ -1,0 +1,33 @@
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\Achados e perdidos.exe.config
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\Achados e perdidos.exe
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\Achados e perdidos.pdb
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\Google.Protobuf.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\MySql.Data.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\System.Memory.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\ZstdSharp.dll
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\Google.Protobuf.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\MySql.Data.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\bin\Debug\System.Data.SQLite.xml
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados e perdidos.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados_e_perdidos.Form1.resources
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados_e_perdidos.FrmAdicionar.resources
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados_e_perdidos.FrmVisualizar.resources
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados_e_perdidos.Properties.Resources.resources
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados e perdidos.csproj.GenerateResource.cache
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados e perdidos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados .444F0E55.Up2Date
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados e perdidos.exe
+C:\Users\Eduardo\OneDrive\Documentos\GitHub\achados-e-perdidos\Achados e perdidos\obj\Debug\Achados e perdidos.pdb
